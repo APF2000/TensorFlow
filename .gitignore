@@ -188,3 +188,5 @@ __MACOSX/10_food_classes_10_percent/train/._ramen
 __MACOSX/10_food_classes_10_percent/train/._steak
 __MACOSX/10_food_classes_10_percent/train/._sushi
 10_food_classes_10_percent.zip
+transfer_learning/10_percent/20240319-160329/train/events.out.tfevents.1710875009.manjaro.2685.0.v2
+transfer_learning/10_percent/20240319-160329/validation/events.out.tfevents.1710875043.manjaro.2685.1.v2
